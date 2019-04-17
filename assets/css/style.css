@@ -1,0 +1,14 @@
+header{
+	background:black;
+	border:1px solid: #000;
+}
+#logo {
+	font-family: century;
+	font-size: 45px;
+	color:whitesmoke;
+}
+
+.overlay{
+	background: rgba(255,255,255,1);
+	margin: 50px;
+}
