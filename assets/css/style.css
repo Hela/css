@@ -1,14 +1,24 @@
 header{
 	background:black;
 	border:1px solid: #000;
+	position: relative;
 }
 #logo {
 	font-family: century;
 	font-size: 45px;
 	color:whitesmoke;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 .overlay{
 	background: rgba(255,255,255,1);
 	margin: 50px;
+	
 }
+.btn, input[type='submit']{
+	text-decoration: none;
+	background:#fff;
+	padding:10px 20px;
+	display: inline-block;
+	border-radius:10px;
